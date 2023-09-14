@@ -13,7 +13,7 @@
 ### Перечень проектов
 Вот перечень проектов, которые я когда-либо делал как в домашних условиях, так и в рабочей обстановке:
 
-* **[Camera Web Viewer](https://github.com/raduma142/camera-web-viewer)
+* **[Camera Web Viewer](https://github.com/raduma142/camera-web-viewer)**
 **Локальный сервер просмотра трансляции с веб-камеры на основе одноплатного компьютера Raspberry Pi:**\
 ОС: Linux\
 Стек: Python, HTML, CSS, JavaScript\
