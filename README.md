@@ -55,7 +55,7 @@
 *Игра Змейка реализована в виде прототипа в среде Delphi 7.\
 Проект реализован в домашних условиях в целях изучения Delphi и получения опыта создания простых игр.*
 
-* **[Image Generator]()**\
+* **[Image Generator](https://github.com/raduma142/image-generator)**\
 **Генератор изображений**
 ОС: Windows, Linux\
 Стек: Python 3 (Pillow/PIL, tkinter, os, random)\
