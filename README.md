@@ -67,6 +67,7 @@
 * C++
 * C# (WPF, Windows Forms, MVVM Pattern)
 * Arduino C
+* GDScript
 
 **В своих проектах я использовал следующие среды разработки и движки:**
 * Visual Studio
