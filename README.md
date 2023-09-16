@@ -24,12 +24,12 @@
 
 * **[Keyer](https://github.com/raduma142/keyer)**\
 **Обработчик фона изображения**\
-![image](https://github.com/raduma142/raduma142/assets/69161202/c243e737-2a3d-4dea-823b-79233822f367)\
-ОС: Windows\
-Стек: C# WPF (паттерн MVVM)\
-Описание проекта:\
-*Данная программа позволяет обрабатывать изображения путём замены определённого цвета (и его оттенков) на прозрачный фон*\
-[Подробное описание проекта](https://github.com/raduma142/keyer/blob/main/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20Keyer.pdf)
+![image](https://github.com/raduma142/raduma142/assets/69161202/c243e737-2a3d-4dea-823b-79233822f367)
+> ОС: Windows\
+> Стек: C# WPF (паттерн MVVM)\
+> Описание проекта:\
+> *Данная программа позволяет обрабатывать изображения путём замены определённого цвета (и его оттенков) на прозрачный фон*\
+> [Подробное описание проекта](https://github.com/raduma142/keyer/blob/main/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20Keyer.pdf)
 
 * **[Camera Web Viewer](https://github.com/raduma142/camera-web-viewer)**\
 **Локальный сервер просмотра трансляции с веб-камеры на основе одноплатного компьютера Raspberry Pi**\
