@@ -95,7 +95,8 @@
   > Проект реализован в домашних условиях в целях получения опыта создания настольных игр.*
 
 * **[Snake](https://github.com/raduma142/snake)**\
-**Игра Змейка**
+**Игра Змейка**\
+  2019
   > ![image](https://github.com/raduma142/raduma142/assets/69161202/8b22afcd-7922-4e85-8cef-24aefe5e5ef3)\
   > ОС: Windows\
   > Стек: Delphi 7\
