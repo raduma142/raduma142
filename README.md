@@ -76,12 +76,12 @@
 
 * **[Snake](https://github.com/raduma142/snake)**\
 **Игра Змейка**
-> ![image](https://github.com/raduma142/raduma142/assets/69161202/8b22afcd-7922-4e85-8cef-24aefe5e5ef3)\
-> ОС: Windows\
-> Стек: Delphi 7\
-> Описание проекта:\
-> *Игра Змейка реализована в виде прототипа в среде Delphi 7.\
-> Проект реализован в домашних условиях в целях изучения Delphi и получения опыта создания простых игр.*
+ > ![image](https://github.com/raduma142/raduma142/assets/69161202/8b22afcd-7922-4e85-8cef-24aefe5e5ef3)\
+ > ОС: Windows\
+ > Стек: Delphi 7\
+ > Описание проекта:\
+ > *Игра Змейка реализована в виде прототипа в среде Delphi 7.\
+ > Проект реализован в домашних условиях в целях изучения Delphi и получения опыта создания простых игр.*
 
 * **[Turbo Race](https://github.com/raduma142/turbo-race)**\
 **Игра Гонщик**
