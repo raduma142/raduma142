@@ -16,6 +16,7 @@
 Вот перечень проектов, которые я когда-либо делал как в домашних условиях, так и в рабочей обстановке:
 
 * **[Система управления регистраторами данных](https://github.com/raduma142/data-logger-management-system)**
+  > ![image](https://github.com/raduma142/raduma142/assets/69161202/b8fd164f-509f-455d-a0aa-25c8ef0728cf)\
   > ОС: Windows\
   > Стек: C# WPF (паттерн MVVM), Arduino C\
   > Описание проекта:\
