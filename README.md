@@ -76,6 +76,7 @@
 
 * **[Snake](https://github.com/raduma142/snake)**\
 **Игра Змейка**
+> ![image](https://github.com/raduma142/raduma142/assets/69161202/8b22afcd-7922-4e85-8cef-24aefe5e5ef3)\
 > ОС: Windows\
 > Стек: Delphi 7\
 > Описание проекта:\
