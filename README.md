@@ -95,8 +95,8 @@
   > Проект реализован в школе программистов в целях изучения Delphi*
 
 * **[Image Generator](https://github.com/raduma142/image-generator)**\
-**Генератор изображений**\
-  > ![image](https://github.com/raduma142/raduma142/assets/69161202/b685d762-0b4b-48b3-88aa-d90ee36bbe27)\
+**Генератор изображений**
+  > ![image](https://github.com/raduma142/raduma142/assets/69161202/c3b66a43-f9b6-4c27-b62b-a802216aeb04)\
   > ОС: Windows, Linux\
   > Стек: Python 3 (Pillow/PIL, tkinter, os, random)\
   > Описание проекта:\
