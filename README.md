@@ -24,7 +24,7 @@
 
 * **[Keyer](https://github.com/raduma142/keyer)**\
 **Обработчик фона изображения**
-> ![image](https://github.com/raduma142/raduma142/assets/69161202/c243e737-2a3d-4dea-823b-79233822f367)
+> ![image](https://github.com/raduma142/raduma142/assets/69161202/c243e737-2a3d-4dea-823b-79233822f367)\
 > ОС: Windows\
 > Стек: C# WPF (паттерн MVVM)\
 > Описание проекта:\
