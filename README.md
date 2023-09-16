@@ -63,8 +63,8 @@
 Проект реализован в домашних условиях в целях изучения JavaScript и получения опыта создания простых игр.*
 
 * **[Nard]()**\
-**Игра Нарды в реализации в виде Windows-приложения**![image](https://github.com/raduma142/raduma142/assets/69161202/7fde5285-61f8-44cd-a7bf-fea788f24830)
-\
+**Игра Нарды в реализации в виде Windows-приложения**!\
+  ![image](https://github.com/raduma142/raduma142/assets/69161202/796b354f-c05b-4e27-8d57-9bdb3f2b15b4)\
   ОС: Windows\
   Стек: Delphi 7\
   Описание проекта:\
